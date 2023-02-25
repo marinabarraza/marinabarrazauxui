@@ -1,0 +1,80 @@
+h1 {
+    color: blueviolet;
+
+}
+
+h2 {
+    background-color:white;
+    font-size:x-large;
+}
+
+h4 {
+    font-size: medium;
+}
+
+p{
+    color: black;
+    font-size: medium;
+}
+
+/* ESTILOS A LAS ETIQUETAS a */
+
+a {
+    text-decoration: none;
+    /* Eliminamos el subrayado */
+
+    color: black;
+    /* Cambio el color de la fuente*/
+
+    text-transform: uppercase;
+    /* Colocamos en mayúscula el texto */
+}
+
+/* Estilos a las listas */
+
+li {
+    list-style-type: none;
+}
+
+/* Estilos para Fondos */
+
+header {
+
+    background-color: white;
+    background-repeat: no-repeat;
+}
+
+
+
+.anclas {
+    color: blueviolet;
+    size: 20px;
+    style:bold;
+}
+
+.anclas:hover {
+    color: aqua;
+}
+
+
+.mt-n1 {
+    margin-top: 20px !important;
+}
+
+.Colorbg{
+    background-color: rgb(46, 45, 45);
+    ;
+}
+
+.Presentation{
+    margin-top: 200px;
+    size: 18px;
+    
+}
+
+
+/* Formulario */
+
+.contacto
+
+.estiloh2 {text-align-last: right;}
